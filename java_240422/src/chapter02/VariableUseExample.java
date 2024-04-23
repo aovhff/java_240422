@@ -1,6 +1,7 @@
 package chapter02;
 
-public class VariableUseExample {
+public class VariableUseExample
+{
 	public static void main(String[] args) {
 		int hour = 3;
 		int minute=5;
@@ -19,3 +20,4 @@ public class VariableUseExample {
 	}
 
 }
+
